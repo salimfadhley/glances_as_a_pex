@@ -1,0 +1,4 @@
+.idea/
+glances.pex
+glances_requirements.txt
+make_venv.sh
